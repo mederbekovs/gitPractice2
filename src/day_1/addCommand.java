@@ -9,6 +9,7 @@ public class addCommand {
 
         // I want to try git add filename
 
-        // I made chaned here when I created addCommand class
+        // I made changed here when I created addCommand class
+
     }
 }
